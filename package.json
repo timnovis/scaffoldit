@@ -1,5 +1,5 @@
 {
-  "name": "scaffoldit",
+  "name": "@timnovis/scaffoldit",
   "version": "1.0.0",
   "description": "A hacky afternoon node script to automate a common part of my workflow where I have \"boilerplate\" repos which I use across lots of projects, but I always need to:",
   "main": "index.js",
@@ -11,5 +11,13 @@
   "license": "ISC",
   "bin": {
     "scaffoldit": "./index.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timnovis/scaffoldit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timnovis/scaffoldit/issues"
+  },
+  "homepage": "https://github.com/timnovis/scaffoldit#readme"
 }
