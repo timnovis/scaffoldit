@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const fs = require('fs');
 const exec = require('util').promisify(require('child_process').exec);
 const readline = require('readline').createInterface({

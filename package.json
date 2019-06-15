@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Tim Novis <tim.novis@me.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "scaffoldit": "./index.js"
+  }
 }
