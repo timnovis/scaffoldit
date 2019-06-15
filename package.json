@@ -1,6 +1,6 @@
 {
   "name": "@timnovis/scaffoldit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hacky afternoon node script to automate a common part of my workflow where I have \"boilerplate\" repos which I use across lots of projects, but I always need to:",
   "main": "index.js",
   "scripts": {
